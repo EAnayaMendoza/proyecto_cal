@@ -1,0 +1,24 @@
+body {
+    background-color: darkgrey;
+}
+
+#calculadora {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+    height: 85%;
+}
+
+.contenedor-botones {
+    background-color: tomato;
+    width: 50%;
+    height: 95%;
+    border: solid;
+}
+
+#pantalla {
+    border: solid;
+    display: flex;
+    justify-content: end;
+}
